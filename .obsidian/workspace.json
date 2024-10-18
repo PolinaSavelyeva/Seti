@@ -11,24 +11,14 @@
             "id": "b269e744f444587c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "inkapsulyaciya-i-dekapsulyaciya.md",
-                "mode": "source",
-                "source": false
+                "file": "LAN и WAN.md",
+                "staged": false
               }
             }
-          },
-          {
-            "id": "280d008599102726",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,13 +123,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "10417317984cf221",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,9 +151,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "280d008599102726",
+  "active": "10417317984cf221",
   "lastOpenFiles": [
     "inkapsulyaciya-i-dekapsulyaciya.md",
+    "LAN и WAN.md",
     "IP-address.md",
     "assets/Drawing 2024-10-17 16.56.48.excalidraw.md",
     "assets/Drawing 2024-10-17 16.56.48.excalidraw.png",
@@ -177,7 +176,6 @@
     "Как происходит маршрутизация.md",
     "Gateway.md",
     "MAC-address.md",
-    "LAN и WAN.md",
     "Network layer.md",
     "Network topology.md",
     "OUI.md",
