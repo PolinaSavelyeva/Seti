@@ -1,5 +1,7 @@
 ---
-description: Open Systems Interconnection model. Модель классификации устройств и их взаимодействия.
+description: Модель классификации устройств и их взаимодействия.
+aliases:
+  - Open Systems Interconnection model
 ---
 1. [[Physical layer]]
 2. [[Data link layer]]

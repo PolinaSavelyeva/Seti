@@ -8,70 +8,91 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file: OSI",
+      "query": "file:OSI",
       "color": {
         "a": 1,
-        "rgb": 8859953
-      }
-    },
-    {
-      "query": "Physical layer",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "Data link layer",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "Transport layer",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
-      "query": "Session layer",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    },
-    {
-      "query": "Presentation layer",
-      "color": {
-        "a": 1,
-        "rgb": 6073814
-      }
-    },
-    {
-      "query": "Application layer",
-      "color": {
-        "a": 1,
-        "rgb": 6053078
+        "rgb": 14701138
       }
     },
     {
       "query": "Network layer",
       "color": {
         "a": 1,
-        "rgb": 14048429
+        "rgb": 14725458
       }
     },
     {
-      "query": "topology",
+      "query": "Physical layer",
       "color": {
         "a": 1,
-        "rgb": 12613685
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Transport layer",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Data link layer",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "Session layer",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "Presentation layer",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "Application layer",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "Device",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "file:Protocol",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Network topology",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Rule",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,

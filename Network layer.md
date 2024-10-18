@@ -11,7 +11,7 @@ aliases:
 
 ### Протоколы
 
-- [[IP-address]]
+- [[IPv4]]
 - [[IPv6]]
 - [[IPvX]]
 

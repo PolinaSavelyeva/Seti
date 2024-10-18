@@ -10,8 +10,8 @@ aliases:
 
 ### Протоколы
 
-- [[Ethernet data link layer protocol]]
-- [[Wi-Fi data link layer protocol]]
+- [[Ethernet]]
+- [[Wi-Fi]]
 
 ### Оборудование
 

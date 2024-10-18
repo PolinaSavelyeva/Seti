@@ -8,12 +8,12 @@ aliases:
 
 ### Протоколы
 
-- [[Wi-Fi physical protocol]]
-- [[Ethernet physical protocol]]
+- [[Wi-Fi]]
+- [[Ethernet]]
 
 ### Оборудование
 
-- линии связи ([[Коaксиальный кабель]], [[Оптоволокно]] ([[Multi/single mode]]), [[UTP]], [[STP]],[[FTP]], воздух (для Wi-Fi))
+- линии связи ([[Coaxial cable]], [[Оптоволокно]], [[UTP]], [[STP]],[[FTP]], воздух (для Wi-Fi))
 - [[Connector]]
 - вампир (протыкаeт толстый коаксиальный кабель до проводящего элемента)
 - [[Repeater]]

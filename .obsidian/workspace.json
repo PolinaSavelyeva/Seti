@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0f50074bea65b8fd",
+        "id": "9ed373404b935da2",
         "type": "tabs",
         "children": [
           {
-            "id": "b269e744f444587c",
+            "id": "ce1b2bbd966e3a2d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "LAN и WAN.md",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -68,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5046501159668
+    "width": 302.5046501159668
   },
   "right": {
     "id": "c75e30b976e7f76f",
@@ -78,33 +75,6 @@
         "id": "e3eb59368e556cdc",
         "type": "tabs",
         "children": [
-          {
-            "id": "3a82f01f6f62f7d8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "a9b302f64624c63f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "4a76501e1f68d91b",
             "type": "leaf",
@@ -117,15 +87,7 @@
             }
           },
           {
-            "id": "4c64d162d9605e39",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "10417317984cf221",
+            "id": "9c14849298f52a13",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -133,11 +95,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,44 +113,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10417317984cf221",
+  "active": "ce1b2bbd966e3a2d",
   "lastOpenFiles": [
-    "inkapsulyaciya-i-dekapsulyaciya.md",
-    "LAN и WAN.md",
-    "IP-address.md",
-    "assets/Drawing 2024-10-17 16.56.48.excalidraw.md",
-    "assets/Drawing 2024-10-17 16.56.48.excalidraw.png",
-    "assets/Pasted image 20241017152143.png",
-    "Drawing 2024-10-17 16.56.48.excalidraw.png",
-    "IPv4 packet.md",
-    "assets/Drawing 2024-10-17 16.42.52.excalidraw.png",
-    "assets/file.excalidraw.svg",
-    "Правило 3-4-5.md",
-    "Bridge.md",
-    "ad.md",
-    "assets/image (17).png",
-    "assets/Drawing 2024-10-17 16.42.52.excalidraw.md",
-    "Экзамены CISCO.md",
-    "Режимы коммутации.md",
-    "Drawing 2024-10-17 16.12.45.excalidraw.md",
-    "UTP.md",
-    "Drawing 2024-10-17 16.12.45.excalidraw.png",
-    "Как происходит маршрутизация.md",
-    "Gateway.md",
-    "MAC-address.md",
-    "Network layer.md",
-    "Network topology.md",
-    "OUI.md",
-    "Микросегментация.md",
-    "Repeater.md",
+    "Decapsulation.md",
+    "Encapsulation.md",
+    "HTTP.md",
+    "HTTPS.md",
+    "DNS.md",
+    "OSPF.md",
     "RIB.md",
-    "Ring topology.md",
-    "Router.md",
-    "Session Layer.md",
-    "Star topology.md",
-    "Pasted image 20241017152113.png",
-    "Pasted image 20241017152052.png",
-    "assets/image (30).png",
+    "RIP.md",
+    "TLS.md",
+    "SSL.md",
+    "Gateway.md",
+    "Session.md",
+    "Firewall.md",
+    "UDP.md",
+    "UDP datagram.md",
+    "TCP segment.md",
+    "Transport layer.md",
+    "ICMP.md",
+    "TCP.md",
+    "Режимы коммутации.md",
+    "Frame.md",
+    "IP.md",
+    "Bridge.md",
+    "Switch.md",
+    "Switch table.md",
+    "Ethernet physical.md",
+    "assets/Pasted image 20241018173506.png",
+    "assets/Pasted image 20241018173314.png",
+    "Multi",
+    "Excalidraw/EthernetFrame.png",
+    "Excalidraw/CSMA-CD.png",
+    "Excalidraw/AD.png",
+    "Excalidraw/PacketOffset.png",
+    "Excalidraw/Decapsulation.png",
+    "Excalidraw/IPHostMask.png",
+    "Excalidraw/Encapsulation.png",
+    "assets/Pasted image 20241017152143.png",
+    "Excalidraw",
     "templates",
     "assets"
   ]
