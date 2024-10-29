@@ -1,3 +1,3 @@
-![[image (27).png|200]]
+![[connector.png|200]]
 
 [[Physical layer]]

@@ -4,9 +4,11 @@ aliases:
   - Ethernet кадр
   - Кадр
   - Фрейм
+tags:
+  - hot
 ---
 
-![[image (23).png]]
+![[ethernet_frame.png]]
 
 ![[EthernetFrame.png]]
 

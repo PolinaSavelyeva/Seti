@@ -3,6 +3,8 @@ description: Технология (IEEE 802.3) множественного до
 aliases:
   - Carrier-sense multiple access with collision detection
   - Множественный доступ с прослушиванием несущей частоты и обнаружением коллизий
+tags:
+  - hot
 ---
 
 ## CSMA/CD

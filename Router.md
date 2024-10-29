@@ -4,7 +4,7 @@ aliases:
   - Роутер
   - Маршрутизатор
 ---
-![[image (6).png|400]] ![[image (5).png|300]]
+![[router_2.png|400]] ![[router.png|300]]
 
 [[Network layer]]
 [[Device]]

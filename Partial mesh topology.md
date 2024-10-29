@@ -2,6 +2,6 @@
 aliases:
   - Частично-ячеистая топология
 ---
-![[image (18).png]]
+![[partial_mesh.png]]
 
 [[Network topology]]

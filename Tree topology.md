@@ -6,6 +6,6 @@ aliases:
 ---
 Поддерживается new [[Ethernet]].
 
-![[image (19).png]]
+![[tree_bus.png]]
 
 [[Network topology]]

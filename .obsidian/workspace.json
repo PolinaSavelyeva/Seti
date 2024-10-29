@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed373404b935da2",
+        "id": "9f80a73278d245eb",
         "type": "tabs",
         "children": [
           {
-            "id": "ce1b2bbd966e3a2d",
+            "id": "440e436020c4903f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -50,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,14 +64,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 302.5046501159668
+    "width": 200
   },
   "right": {
     "id": "c75e30b976e7f76f",
@@ -83,7 +91,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -91,7 +101,50 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "79270c588c160ca0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0b3035f5627c69c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6f56262c7996fa8a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ],
@@ -103,55 +156,57 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ce1b2bbd966e3a2d",
+  "active": "440e436020c4903f",
   "lastOpenFiles": [
-    "Decapsulation.md",
-    "Encapsulation.md",
-    "HTTP.md",
-    "HTTPS.md",
-    "DNS.md",
-    "OSPF.md",
-    "RIB.md",
-    "RIP.md",
-    "TLS.md",
-    "SSL.md",
+    "Excalidraw/arp_message.md",
+    "assets/ethernet_frame.png",
+    "assets/utp_4.png",
+    "assets/utp_3.png",
+    "assets/tree_bus.png",
+    "assets/image (20).png",
+    "assets/partial_mesh.png",
+    "assets/full_mesh.png",
+    "assets/dual ring.png",
+    "assets/ring.png",
+    "assets/star.png",
+    "Router.md",
     "Gateway.md",
-    "Session.md",
     "Firewall.md",
-    "UDP.md",
-    "UDP datagram.md",
-    "TCP segment.md",
-    "Transport layer.md",
-    "ICMP.md",
-    "TCP.md",
-    "Режимы коммутации.md",
-    "Frame.md",
-    "IP.md",
+    "Как происходит маршрутизация.md",
     "Bridge.md",
+    "Repeater.md",
+    "Hub.md",
     "Switch.md",
-    "Switch table.md",
-    "Ethernet physical.md",
-    "assets/Pasted image 20241018173506.png",
-    "assets/Pasted image 20241018173314.png",
+    "ARP сообщение.md",
+    "Data structure.md",
+    "Excalidraw/Drawing 2024-10-30 00.59.11.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-30 00.59.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-30 01.47.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-30 01.47.20.excalidraw.md",
+    "Progress tracker.md",
+    "Ethernet.md",
+    "AD.md",
+    "ARP.md",
+    "Connector.md",
+    "CSMA.md",
+    "Data link layer.md",
+    "Ethernet frame.md",
+    "MAC address.md",
+    "OSI.md",
+    "templates",
+    "progress_tracker",
+    "Untitled.canvas",
     "Multi",
-    "Excalidraw/EthernetFrame.png",
-    "Excalidraw/CSMA-CD.png",
-    "Excalidraw/AD.png",
-    "Excalidraw/PacketOffset.png",
-    "Excalidraw/Decapsulation.png",
-    "Excalidraw/IPHostMask.png",
-    "Excalidraw/Encapsulation.png",
-    "assets/Pasted image 20241017152143.png",
     "Excalidraw",
     "templates",
     "assets"
